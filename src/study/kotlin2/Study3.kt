@@ -31,4 +31,7 @@ fun main() {
     println("age : ${user.age}")
     println("name : ${user2.name}")
     println("age : ${user2.age}")
+
+    val user22 = readLine().toString()
+    println(user22)
 }
